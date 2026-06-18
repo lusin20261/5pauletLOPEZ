@@ -18,7 +18,7 @@ ul {
   font-size: 20px;
 }
 .dibujo{
-    width:1000px;
+    width:700px;
 }
 
 .cielo,
@@ -40,4 +40,55 @@ ul {
     fill:white;
     stroke:black;
     stroke-width:3;
+}
+.arbusto{
+  fill:rgb(46,139,87)
+}
+.cabello{
+  fill:rgb(139,69,19)
+}
+.cesped{
+  fill:rgb(50,205,50)
+}
+.cuerpo-semaforo{
+  fill:rgb(0,0,0)
+}
+.luz-amarilla{
+  fill:rgb(255,215,0)
+}
+.luz-roja{
+  fill: rgb(220,20,60);
+}
+.luz-verde{
+  fill: rgb(0,255,127);
+}
+.nube-cuerpo{
+  fill: rgb(255,255,255);
+}
+.ojo{
+  fill: rgb(0,0,0);
+}
+.palo-semaforo{
+  fill: rgb(0,0,0);
+}
+.pantalon{
+  fill: rgb(139,69,19);
+}
+.piel{
+  fill:rgb(210,180,140)
+}
+.dibujo{
+  fill:rgb(0,0,0)
+}
+.polo{
+  fill:rgb(176,196,222)
+}
+.zapato{
+  fill:rgb(139,69,19)
+}
+.sol{
+  fill: rgb(255,228,181);
+}
+.cielo{
+  background-color: rgb(25,25,112);
 }
