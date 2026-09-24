@@ -1,0 +1,5 @@
+1:Mi mama
+2:Mi papa
+3:Mis tios
+4:Mis abuelos
+5:Mis primos

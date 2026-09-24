@@ -1,0 +1,5 @@
+1:Ser conocido
+2:Saber matematicas
+3:Saber Computacion
+4:Viajar a otros paises
+5:Conocer el mundo

@@ -1,0 +1,5 @@
+1:Trigonometria
+2:Computacion
+3:Matematicas
+4:Fisica
+5:Arqueologia
